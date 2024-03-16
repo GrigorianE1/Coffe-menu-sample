@@ -1,2 +1,2 @@
-# Coffe-menu-sample
+# Coffee.menu.sample
 My first HTML + CSS template.
